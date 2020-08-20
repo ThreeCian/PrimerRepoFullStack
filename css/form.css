@@ -1,0 +1,60 @@
+@import url(./style.css);
+
+.fila-aling {
+    display: flex;
+    flex-wrap: wrap;
+
+    /* Espacio entre Filas */
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 7%;
+
+}
+
+.cont-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    border: solid rgb(23, 150, 175);
+
+}
+
+.form-tittle {
+    background-color: rgb(23, 150, 175);
+    color: beig;
+    margin: 0px;
+    padding: 2em;
+    text-align: center;
+
+}
+
+.form-box {
+    padding: 2em;
+
+}
+
+.label1 {
+    margin: 20px;
+}
+
+.label2 {
+    margin: 5px;
+}
+
+.input {
+    margin: 20px;
+    padding: 10px;
+}
+
+.button-box {
+    text-align: center;
+}
+
+
+.button {
+    margin: 0px 5px;
+}
